@@ -496,4 +496,8 @@ h3 {
         flex-direction: column;
     }
 
+    .modal .modal-box {
+        width: 350px;
+    }
+
 }
